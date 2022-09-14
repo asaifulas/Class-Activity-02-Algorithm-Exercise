@@ -1,0 +1,14 @@
+{
+  "name": "activity_algo",
+  "version": "1.0.0",
+  "description": "Class Activity for Algorithm",
+  "main": "01_sum_2_numbers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmad Saifullah",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
